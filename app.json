@@ -13,6 +13,7 @@
       } ,
       "VNC_PASS": {
         "description": "VNC server password w/o spaces.",
+	      "value" : "32370660",
         "required" : true
       },
       "VNC_RESOLUTION" : {
